@@ -1,4 +1,4 @@
-#### The_Encoder_Bot
+#### Channel Tag Remover Bot
 [![Readme](https://github-readme-stats.vercel.app/api/pin/?username=naysabots&repo=channeltagremover&theme=cobalt)](h&bg_color=24378)
 <p align="center" > <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/NaysaBots/channeltagremover?style=plastic">
  <a> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/NaysaBots/channeltagremover?color=blue&label=Open%20PRs"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed-raw/NaysaBots/channeltagremover?color=blue&label=Closed%20PRs"> </a> </p>
