@@ -6,11 +6,11 @@
 <p align="center" > <img alt="GitHub forks" src="https://img.shields.io/github/forks/NaysaBots/channeltagremover?label=%F0%9F%8D%B4Forks&logoColor=blue&style=social">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NaysaBots/channeltagremover?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=social"> </p>
 
+#### Config Variable
 
-####Config Variable
 - `API_ID` - Get it by creating an app on [https://my.telegram.org](https://my.telegram.org)
 - `API_HASH` - Get it by creating an app on [https://my.telegram.org](https://my.telegram.org)
-- `BOT_TOKEN` - Get it by creating a bot on [https://t.me/BotFather](https://t.me/BotFather)
+- `BOT_TOKEN` - G####Config Variableet it by creating a bot on [https://t.me/BotFather](https://t.me/BotFather)
 
 
 #### Deploy on Heroku
