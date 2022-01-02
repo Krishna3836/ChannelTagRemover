@@ -27,10 +27,9 @@ Recommended
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/tellybots_4u'),
-        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/tellybots_support')
-        ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
+        InlineKeyboardButton('👲 About', callback_data='about')
+        ],[
         InlineKeyboardButton('⛔ Close', callback_data='close')
         ]]
     )
