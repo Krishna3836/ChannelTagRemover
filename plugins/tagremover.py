@@ -1,4 +1,8 @@
-
+import pyrogram
+import os
+from pyrogram import filters
+from pyrogram.types import Message, User
+from pyrogram import Client as NaysaBots
 
 
 
