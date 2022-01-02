@@ -1,1 +1,27 @@
-
+{
+    "name": "Channel Tag Remover",
+    "description": "I can Instantly Remove Channel Tag",
+    "repository": "https://github.com/Naysabots/ChannelTagRemover",
+    "website": "t.me/NaysaBots",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "",
+            "required": "True"
+        },
+        "API_HASH": {
+            "description": "",
+            "required": "True"
+        },
+        "API_ID": {
+            "description": "",
+            "required": "True"
+        }
+    },
+    "stack": "heroku-20",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
