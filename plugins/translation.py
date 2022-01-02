@@ -11,7 +11,7 @@ I am Instant Forward Tag Remover Bot
 
 I can Instantly Delete Forward Tag
 
-Add me to a channel with all Permissions and Forgot About Forward Tags on Your Post.
+Add me to a channel with all Permissions and Forgot About Forward Tags on Your Post
 
 Made With 💕 By @NaysaBots
 """
