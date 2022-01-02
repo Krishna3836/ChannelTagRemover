@@ -5,15 +5,15 @@
     "website": "t.me/NaysaBots",
     "env": {
         "BOT_TOKEN": {
-            "description": "",
+            "description": "Get it From Bot Father",
             "required": "True"
         },
         "API_HASH": {
-            "description": "",
+            "description": "Get it From @TgApiextractorBot",
             "required": "True"
         },
         "API_ID": {
-            "description": "",
+            "description": "Get it From @TgApiextractorBot",
             "required": "True"
         }
     },
