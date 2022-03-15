@@ -17,8 +17,8 @@ Recommended
 """
     ABOUT_TEXT = """
  **🤖 Bot :** Instant-Tag-Remover\n
- **👲 Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
- **👥 Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
+ **👲 Developer :** [Tellybots](https://telegram.me/tellybots)\n
+ **👥 Channel :** [Tellybots](https://telegram.me/tellybots)\n
  **❄️ Credits :** Everyone in this journey\n
  **🍴 Source :** [Click here](https://t.me/tellybots_digital)\n
  **📝 Language :** [Python3](https://python.org)\n
